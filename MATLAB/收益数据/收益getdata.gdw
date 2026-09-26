@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.20</version>
+  <File>
+    <Name>D:\桌面\1.jpg</Name>
+    <Width>560</Width>
+    <Height>420</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>0,0,0</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">823,1606,985,2803,1147,2065,1318,2929,1480,2929,1660,2929,1831,2929,2002,2929,2137,2929,2290,2929</Points>
+    <Points MF="9">2443,2929,2587,2929,2767,2929,2947,2929,3100,2929,3262,571,3424,598,3595,2929,3757,2929,3919,2929</Points>
+    <Points MF="9">4063,2929,4243,2929,4405,1705,4558,2065</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">661,3370,0.000000e+000</Xmin>
+  <Xmax MF="9">4567,3370,2.400000e+001</Xmax>
+  <Ymin MF="9">661,3370,-5.000000e-001</Ymin>
+  <Ymax MF="9">661,283,3.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>368,242</Position>
+  <Zoom>
+    <Scale>350.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+</GetDataWorkspace>
